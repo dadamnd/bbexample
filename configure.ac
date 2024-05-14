@@ -1,4 +1,4 @@
-AC_INIT([greatyocto], [1,0], woonrae@greatyocto.co.kr)
+AC_INIT([greatyocto], [1,0], xunny@daum.net)
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 
 AC_PROG_CC
